@@ -223,10 +223,15 @@ sudo apt install -y \
     traceroute \
     xrdp \
     tmux
+```
+
 
 # Installation von Snap für zusätzliche Software
-sudo apt install -y snapd
 
+```
+sudo apt install -y snapd
+```
+```
 # Installation häufiger Anwendungen mit Snap
 sudo snap install telegram-desktop
 sudo snap install whatsdesk
